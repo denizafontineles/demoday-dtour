@@ -1,1 +1,1 @@
-web: gunicorn <demoday-dtour>.wsgi 
+web: gunicorn demoday-dtour.wsgi 
