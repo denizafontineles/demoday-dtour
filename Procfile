@@ -1,1 +1,1 @@
-web: gunicorn demoday-dtour.wsgi 
+web: gunicorn ideias_malucas.wsgi 
