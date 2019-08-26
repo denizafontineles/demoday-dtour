@@ -1,2 +1,2 @@
 # demoday-dtour
-Projeto feito para os Trabalho de Conclusão de curso do Mastertech.
+Projeto feito para o Trabalho de Conclusão de Curso do Mastertech.
