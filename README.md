@@ -1,2 +1,2 @@
 # demoday-dtour
-Inserção de novos conteúdos
+Projeto feito para os Trabalho de Conclusão de curso do Mastertech.
